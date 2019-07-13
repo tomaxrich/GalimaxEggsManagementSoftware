@@ -24,6 +24,14 @@ To run please use the following commands to install the necesary Node Modules
 
 ### `npm install redux-thunk`
 
+### `npm install react-redux-firebase redux-firestore`
+
+as of July 13/2019 please roll back react-redux using
+
+### `npm i --save react-redux@^5.1.1`
+
+then restart the application
+
 ## Available Scripts
 
 In the project directory, you can run:
