@@ -1,6 +1,6 @@
-##GalimaxEggs
+## GalimaxEggs
 
-###For the purpose of online reporting and storage of remote distributors
+### For the purpose of online reporting and storage of remote distributors
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
