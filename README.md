@@ -32,6 +32,8 @@ as of July 13/2019 please roll back react-redux using
 
 then restart the application
 
+### `npm install moment`
+
 ## Available Scripts
 
 In the project directory, you can run:
