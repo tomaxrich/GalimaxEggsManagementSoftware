@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 To run please use the following commands to install the necesary Node Modules
 
-### `pm install react-router-dom`
+### `npm install react-router-dom`
 
 ### `npm install react`
 
