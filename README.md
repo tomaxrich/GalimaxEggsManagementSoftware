@@ -1,4 +1,16 @@
+##GalimaxEggs
+
+###For the purpose of online reporting and storage of remote distributors
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+For Video Tutorials on this project please visit & Subscribe to The Net Ninja at
+https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg
+
+This Project is currently being modified from the original(created by The Net Ninja) 
+
+for Use as system managment software(modified by Thomas Richardson).
+
 
 ## Initial Set-Up
 
