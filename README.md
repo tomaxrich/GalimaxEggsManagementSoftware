@@ -1,5 +1,17 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Initial Set-Up
+
+To run please use the following commands to install the necesary Node Modules
+
+### `pm install react-router-dom`
+
+### `npm install react`
+
+### `npm install redux react-redux`
+
+### `npm install redux-thunk`
+
 ## Available Scripts
 
 In the project directory, you can run:
